@@ -1,6 +1,8 @@
 # UOM Complaint Portal
-### Status Progress
+
 The UOM Complaint Portal is designed to streamline and simplify the process of submitting and managing complaints within the University of Michigan (UOM). This project aims to provide a user-friendly and efficient platform for students, faculty, and staff to report issues, track the status of their complaints, and ensure timely resolutions.
+### Status Progress
+
 ## Features
 - **User Authentication:** Secure login for students, faculty, and staff using their university credentials.
 - **Account Restrictions:** Only individuals affiliated with the University of Michigan (UOM) can create an account. External users are restricted from creating accounts.
