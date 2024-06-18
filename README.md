@@ -12,7 +12,8 @@ The UOM Complaint Portal is designed to streamline and simplify the process of s
 
 
 ## About Us
-![01 About Us](https://github.com/Muhammad313313/UOM-Complaint-Portal/assets/166158270/af4a9cbb-1396-4b6a-bc97-7529f212314e)
+![01](https://github.com/Muhammad313313/UOM-Complaint-Portal/assets/166158270/667fdc26-af72-4f92-bc06-0abd06d327a2)
+
 
 ## UI Design
 
