@@ -1,4 +1,4 @@
-![04  All users](https://github.com/Muhammad313313/UOM-Complaint-Portal/assets/166158270/28604eaa-3c0c-4cdf-8b64-5f58e3ff97ca)# UOM Complaint Portal
+# UOM Complaint Portal
 
 # UI Design
 
